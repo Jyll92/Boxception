@@ -13,13 +13,14 @@ h1 {
 .blueBoxcept {
     border: 3px solid black;
     background-color: blue;
+    width: 300px;
     margin: 100px;
 }
 
 .redBoxcept {
     border: 3px solid black;
     background-color: red;
-    margin: auto;
+    margin: 100px auto;
     height: auto;
     width: 500px;
 }
